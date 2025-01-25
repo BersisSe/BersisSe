@@ -1,7 +1,12 @@
 # 💫 About Me:
-I am Currently working on my Rustic Project🦀<br>I wanna collaborate on other Rust Libraries to uplift Rust's ecosystem🖥<br>I am looking for help with Rustic. I will release Collaboration guide soon<br>I am Currently Learning Rust and a little bit of javascript <br>
+I am Currently working on my Learing More about tech to uplift my skills<br>I wanna collaborate on other Rust Libraries to uplift Rust's ecosystem🖥<br>I am looking for help with Rustic. I will release Collaboration guide soon<br>I am Currently Learning Rust and a little bit of javascript <br>
+---
 
+## My Roadmap:
+- Interactive Database Server Crypt
+- Feather Lightwait Web Framework
 
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bero104) 
 
