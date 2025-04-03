@@ -1,10 +1,10 @@
 # 💫 About Me:
-I am Currently working on my Learning More about Rust🦀<br>I wanna collaborate on other Rust Libraries to uplift Rust's ecosystem🖥<br>I am looking for help with Rustic. I will release Collaboration guide soon<br>I am Currently Learning Rust and a little bit of javascript <br>
+I am Currently working on my Learning More about Rust🦀<br>I wanna collaborate on other Rust Libraries to uplift Rust's ecosystem🖥<br> I am Currently Learning Rust Dart/Flutter Web Development and Backend Development I don't really have a spesific place that I wanna excel at but I really wanna focus on Rust for now<br>
 ---
 
 ## My Roadmap:
 - Interactive Database Server Crypt
-- Feather Lightwait Web Framework
+- Feather lightweight Web Framework
 
 ---
 ## 🌐 Socials:
@@ -20,4 +20,3 @@ I am Currently working on my Learning More about Rust🦀<br>I wanna collaborate
 ---
 [![](https://visitcount.itsvg.in/api?id=BersisSe&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
