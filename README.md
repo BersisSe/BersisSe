@@ -3,7 +3,6 @@ I am Currently working on my Learning More about Rust🦀<br>I wanna collaborate
 ---
 
 ## My Roadmap:
-- Interactive Database Server Crypt
 - Feather lightweight Web Framework
 
 ---
