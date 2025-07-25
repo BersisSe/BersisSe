@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently working on my Learning More about Rust🦀<br>I wanna collaborate on other Rust Libraries to uplift Rust's ecosystem🖥<br> I am Currently Learning Rust Dart/Flutter Web Development and Backend Development I don't really have a spesific place that I wanna excel at but I really wanna focus on Rust for now<br>
+I am Currently working on my Learning More about Rust🦀<br>I wanna collaborate on other Rust Libraries to uplift Rust's ecosystem🖥<br>
 ---
 
 ## My Roadmap:
