@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi, I’m **Bersis** a Turkish software developer.  <br>My work often involves building projects with modern frameworks and libraries.  <br>I focus on contributing to and improving the ecosystems I use, mainly **Rust**.  <br><br>In my free time I work on side projects, like developing a custom shell with embedded Lua support.  <br><br>I enjoy working with others and thrive in team environments where ideas can flow freely.  <br>With a strong organizational and leadership mindset, I aim to guide projects toward clear goals and effective solutions.  <br><br>If our interests align, I’d be more than happy to team up and build something together.<br>
-
+Hi I am Bersis A Software developer from Türkiye!  
+I spend most of my time building tools for Rust and its ecosystem, and I also enjoy exploring other programming languages and technologies. I like working on side projects, experimenting with ideas, and learning by building.
+I am especially interested in Computer Science and Embedded Development but also enjoy creating software for the higher level stuff.
+I’m a strong collaborator and organizer, and I enjoy working in teams where people can share ideas openly and move projects forward together.
+I am a great collabrator and a great orginizator. If our intrests align I'll be more then happy to built something together.
 
 # 💻 Tech Stack:
 ### **Languages**
