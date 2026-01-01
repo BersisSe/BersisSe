@@ -27,9 +27,9 @@ I am a great collabrator and a great orginizator. If our intrests align I'll be 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BersisSe&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BersisSe&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BersisSe&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api?username=BersisSe&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats-fast.vercel.app/?user=BersisSe&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BersisSe&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BersisSe&icon=0&color=2)](https://visitcount.itsvg.in)
