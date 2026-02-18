@@ -2,7 +2,7 @@
 Hi I am Bersis A Software developer from Türkiye!  
 I spend most of my time building tools for Rust and its ecosystem, and I also enjoy exploring other programming languages and technologies. I like working on side projects, experimenting with ideas, and learning by building.
 I am especially interested in Computer Science and Embedded Development but also enjoy creating software for the higher level stuff.
-I’m a strong collaborator and organizer, and I enjoy working in teams where people can share ideas openly and move projects forward together.
+I’m a strong collaborator and organizer, and I enjoy working in teams to plan and build together.
 I am a great collabrator and a great orginizator. If our intrests align I'll be more then happy to built something together.
 
 # 💻 Tech Stack:
